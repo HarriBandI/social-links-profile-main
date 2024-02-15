@@ -1,0 +1,42 @@
+.bg{
+    background-color: hsl(0, 0%, 9%);
+    height: 650px;
+    width: 400px;
+    margin: auto;
+    margin-top:100px ;
+    margin-bottom: 50px;
+    border-radius: 15px;
+
+
+}
+h4{
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+}
+img{
+    width: 100px;
+    align-items: center;
+    margin-top: 50px;
+    border-radius: 250px;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    font-family: New;
+    font-weight: 400px;
+    text-align: center;
+}
+.button {
+    text-align: center;
+    width: 270px;
+    height: 40px;
+    margin-left: 95px;
+    color: aliceblue;
+    font-family: New;
+    border-radius: 10px;
+    background-color: hsl(0, 2%, 24%);
+
+  }
+  button:hover {
+    background-color: hsl(75, 95%, 53%);
+    color: hsl(0, 0%, 15%);
+  }
